@@ -7,17 +7,17 @@
 
 # DESKTOP PROJECT
 <h1 align="center"> 
-    <img alt="Readme" title="Readme" src="../images/projeto-desktop.jpg"> 
+    <img alt="Readme" title="Readme" src="./images/projeto-desktop.jpg"> 
 </h1>
 
 # MOBILE PROJECT
 <h1 align="center"> 
-    <img alt="Readme" title="Readme" src="../images/projeto-mobile.png"> 
+    <img alt="Readme" title="Readme" src="./images/projeto-mobile.png"> 
 </h1>
 
 <div align="center" height="50" width="30">
 <a href="https://matheusvskt.github.io/Gallery-using-sass/">
-<img alt="Readme" title="Readme" src="../images/live.jpg"> 
+<img alt="Readme" title="Readme" src="./images/live.jpg"> 
 </a>
 </div>
 
